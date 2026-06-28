@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsh Verma</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 
-* 🌱 I’m currently learning **Spring Boot, Hibernate, JUnit and System Design**
+* 🌱 I’m currently learning **Spring Boot, Hibernate and System Design**
 
 * 💬 Ask me about **Java, Spring Boot, Hibernate, HTML, CSS, JavaScript, React**
 
